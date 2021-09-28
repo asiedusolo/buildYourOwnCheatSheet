@@ -1,0 +1,19 @@
+h1, h2{
+    text-align: center;
+  }
+  h2{
+    color: MediumPurple;
+  }
+  table{
+    border: 3px solid MediumPurple;
+    border-collapse: collapse;
+    margin: 0px auto;
+  }
+  
+  th, td{
+    border: 1px solid MediumPurple;
+  }
+  th{
+    background-color: MediumSlateBlue;
+  }
+  
